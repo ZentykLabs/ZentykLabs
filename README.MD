@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Kelliton | Hi 👋, I'm Kelliton
+# Hi 👋, I'm Kelliton
 
 ### Full-Stack Developer | Product Designer | UI/UX Designer
 
