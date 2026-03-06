@@ -1,4 +1,4 @@
-![background](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmtkOG1mYWxiN2JlaWlmcXdzN2hreHVvbmRxdmZrNnV2d3lkOTR3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3978y5HqiEtqupiM/source.gif)
+![background](https://i.imgur.com/LKeTp5B.gif)
 
 # Hi 👋, I'm Kelliton
 
