@@ -36,6 +36,6 @@ I bridge the gap between robust engineering and intuitive design to build meanin
 ### 🛠️ Tecnologias e Ferramentas | Languages and Tools:
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,framer,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,go,py,graphql,postgres,redis,rabbitmq,docker,kubernetes,linux,jest,cypress" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=figma,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,go,py,graphql,postgres,redis,rabbitmq,docker,kubernetes,linux,jest,cypress" alt="Minhas Skills" />
   </a>
 </p>
