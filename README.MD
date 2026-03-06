@@ -1,5 +1,3 @@
-![background](https://i.imgur.com/LKeTp5B.gif)
-
 # Hi 👋, I'm Kelliton
 
 ### Full-Stack Developer | Product Designer | UI/UX Designer
