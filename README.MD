@@ -1,3 +1,5 @@
+![Galactic Odyssey: Pixelated Space Wonders](https://giffiles.alphacoders.com/165/16592.gif)
+
 # Hi 👋, I'm Kelliton
 
 ### Full-Stack Developer | Product Designer | UI/UX Designer
